@@ -15,6 +15,8 @@ You *might* know me from some of the projects I maintain:
 
 Other than maintaining existing projects, most of my work at the moment is likely to be for university or <a href="https://github.com/dheaton-arm">open-source work in Arm</a>.
 
+*(Your friendly reminder that any opinions are my own. Cheers!)*
+
 <!--
 **Lyrenhex/lyrenhex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
