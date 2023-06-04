@@ -1,6 +1,6 @@
 # Hey 👋
 
-- 😄 Pronouns: He / him (/ they, I don't mind!)
+😄 Pronouns: he / they
 
 I'm a software developer at [Arm](https://arm.com) and an undergraduate Computer Science student at the University of York. You're welcome to read more about my professional work <a href="https://mheaton.dev">at mheaton.dev</a>. Otherwise...
 
