@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Most of my projects have moved to https://code.igland.xyz/lyrenhex.
+
 # Hey 👋
 
 😄 Pronouns: he / they
